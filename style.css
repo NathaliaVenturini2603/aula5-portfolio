@@ -1,0 +1,33 @@
+body {
+    background-color: #f4f4f9;
+    color: #333;
+  }
+  
+  header {
+    background-color: #4b0082;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .card {
+    margin-bottom: 1.5rem;
+  }
+  
+  .btn-primary {
+    background-color: #4b0082;
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #5e0aa6;
+  }
+  
+  .comment-box {
+    background: white;
+    border-radius: 8px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
